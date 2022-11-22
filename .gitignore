@@ -1,6 +1,8 @@
+Run_Script.bat
 bamboop.txt
 bamboologin.txt
 bambooe.txt
+bamboo-auto.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
