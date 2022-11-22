@@ -7,7 +7,7 @@ make sure to create email, password and login .txt files, with the paths specifi
 # .bat file creation
 
 1) open notepad and enter the following text:
-"file path of python.exe" "file path of bamboo.py" pause
+"file path of python.exe" "file path of bamboo-auto.py" pause
 
 2) save with .bat extension
 
