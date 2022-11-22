@@ -1,4 +1,4 @@
-# This is a Python/Selenium script to automate timesheet logging daily.
+# Python/Selenium script to automate timesheet logging
 
 # NOTE : procedure works specifically for BambooHR
 
