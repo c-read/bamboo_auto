@@ -9,9 +9,11 @@ The selenium package is required for Python. This can be obtained through npm: <
   - npm install selenium <br> 
   <br>
   
-Chrome Webdriver is also required and can be found (https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/). <br>
+Chrome Webdriver is also required and can be found [here](https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/). <br>
 You made need to add this .exe file to your system path
   
+ # File Setup
+ 
  create the following files with the relevant credentials stored:
  
   - bambooe.txt - email
