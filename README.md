@@ -1,10 +1,19 @@
 # Python/Selenium script to automate timesheet logging
 
-NOTE : procedure works specifically for BambooHR <br>
+NOTE : procedure works specifically for BambooHR using Chrome <br>
+
+# Installations
+
 The selenium package is required for Python. This can be obtained through npm: <br>
 
   - npm install selenium <br> 
   <br>
+  
+Chrome Webdriver is also required and can be found here:
+
+  - https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/
+  - you made need to add this .exe file to your system path
+  
  create the following files with the relevant credentials stored:
  
   - bambooe.txt - email
