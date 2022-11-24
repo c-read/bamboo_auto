@@ -6,6 +6,7 @@ The selenium package is required for Python. This can be obtained through npm: <
   - npm install selenium <br> 
   <br>
  create the following files with the relevant credentials stored:
+ 
   - bambooe.txt - email
   - bamboop.txt - password
   - bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php )
