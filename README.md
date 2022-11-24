@@ -1,4 +1,4 @@
-# Python/Selenium script to automate timesheet logging
+# Python/Selenium script to automate timesheet logging for BambooHR
 
 NOTE : procedure works specifically for BambooHR using Chrome <br>
 
