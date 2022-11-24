@@ -1,6 +1,6 @@
 # Python/Selenium script to automate timesheet logging for BambooHR
 
-NOTE : procedure works specifically for BambooHR using Chrome on Windows OS <br>
+NOTE : procedure works specifically for BambooHR using Chrome on Windows OS. It is assumed that Python is installed. <br>
 
 # Installations
 
