@@ -21,7 +21,7 @@ You made need to add this .exe file to your system path
   - bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php )
   - make sure to specify the paths in the .py script
 
-# .bat file creation
+# .bat File Creation
 
   - open notepad and enter the following text:
 "file path of python.exe" "file path of bamboo-auto.py" pause
