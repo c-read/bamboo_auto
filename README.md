@@ -5,12 +5,12 @@ The selenium package is required for Python. This can be obtained through npm: <
 
   - npm install selenium <br> 
   <br>
- create the following files with the relevant credentials stored: <br>
-  - bambooe.txt - email <br>
-  -  bamboop.txt - password <br> 
-  -  bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php ) <br>
-  - make sure to specify the paths in the .py script <br>
-<br>
+ create the following files with the relevant credentials stored:
+  - bambooe.txt - email
+  -  bamboop.txt - password
+  -  bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php )
+  - make sure to specify the paths in the .py script
+
 # .bat file creation
 
   - open notepad and enter the following text:
