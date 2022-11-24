@@ -2,8 +2,9 @@
 
 NOTE : procedure works specifically for BambooHR <br>
 The selenium package is required for Python. This can be obtained through npm: <br>
-  - npm install selenium <br> <br>
-  create the following files with the relevant credentials stored: <br>
+  - npm install selenium <br> 
+  <br>
+ create the following files with the relevant credentials stored: <br>
    - bambooe.txt - email <br>
    -  bamboop.txt - password <br>
    -  bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php ) <br>
