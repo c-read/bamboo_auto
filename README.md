@@ -1,8 +1,11 @@
 # Python/Selenium script to automate timesheet logging
 
-# NOTE : procedure works specifically for BambooHR
-
-make sure to create email, password and login .txt files, with the paths specified in the .py script
+NOTE : procedure works specifically for BambooHR
+create the following files with the relevant credentials stored:
+bambooe.txt - email
+bamboop.txt - password
+bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php )
+make sure to specify the paths in the .py script
 
 # .bat file creation
 
