@@ -7,8 +7,8 @@ The selenium package is required for Python. This can be obtained through npm: <
   <br>
  create the following files with the relevant credentials stored:
   - bambooe.txt - email
-  -  bamboop.txt - password
-  -  bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php )
+  - bamboop.txt - password
+  - bamboologin.txt - login url ( ie. https://{company name}.bamboohr.com/login.php )
   - make sure to specify the paths in the .py script
 
 # .bat file creation
