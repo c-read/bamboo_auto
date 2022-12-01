@@ -4,9 +4,9 @@ NOTE : procedure works specifically for BambooHR using Chrome on Windows OS. It 
 
 # Installations
 
-The selenium package is required for Python. This can be obtained through npm: <br>
+The selenium package is required for Python. This can be obtained through pip: <br>
 
-  - npm install selenium <br> 
+  - pip install selenium <br> 
   <br>
   
 Chrome Webdriver is also required and can be found [here](https://chromedriver.storage.googleapis.com/index.html?path=107.0.5304.62/). <br>
